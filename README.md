@@ -24,16 +24,16 @@ It started with wanting to connect my own setup. Since then, it has grown into a
 
 [Explore the project →](https://github.com/Phil-0805/hoymiles-home-assistant) &nbsp; [Join the discussions →](https://github.com/Phil-0805/hoymiles-home-assistant/discussions)
 
-### 🛠️ Personal dashboard · private repository
+### 🛠️ Personal dashboard / private repository
 
 I'm also building a personal dashboard to organise my calendar, projects and everyday tasks. It's a learning project where I write the code myself to put what I learn at university into practice.
 
 ## What I'm exploring
 
-- **Cybersecurity** — developing my skills through university, hands-on labs and personal projects.
-- **Home automation** — connecting devices and building useful automations with Home Assistant.
-- **Homelab & networking** — running self-hosted services and experimenting with networks.
-- **Software development** — turning ideas into working projects and understanding the code behind them.
+- **Cybersecurity**: developing my skills through university, hands-on labs and personal projects.
+- **Home automation**: connecting devices and building useful automations with Home Assistant.
+- **Homelab & networking**: running self-hosted services and experimenting with networks.
+- **Software development**: turning ideas into working projects and understanding the code behind them.
 
 ## Let's connect
 
